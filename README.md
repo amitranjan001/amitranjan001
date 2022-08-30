@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Amit Ranjan</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h3 align="center">Have exposure♛ to building professional websites🖥 and Front-end applications💻. Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap for Web-based applications.
+
+Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created many mini & major projects💼 on Reactjs and other technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitranjan001&label=Profile%20views&color=0e75b6&style=flat" alt="amitranjan001" /> </p>
 
